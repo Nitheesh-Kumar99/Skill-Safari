@@ -2,6 +2,8 @@ h1 {
   text-transform: capitalize;
   color: darkgoldenrod;
   text-align: center;
+  font-weight: 100px;
+  font-family: fantasy;
 }
 .container {
   width: 1200px;
