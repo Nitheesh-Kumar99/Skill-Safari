@@ -1,0 +1,17 @@
+.container {
+  width: 1500px;
+  height: auto;
+  background-color: black;
+}
+.box {
+  width: 1200px;
+  height: 900px;
+  background-color: yellow;
+  margin: auto;
+}
+
+img {
+  width: 200px;
+  height: auto;
+  padding: 18px;
+}
