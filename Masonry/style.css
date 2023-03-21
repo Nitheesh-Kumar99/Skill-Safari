@@ -1,4 +1,4 @@
-.container {
+/* .container {
   width: 1500px;
   height: auto;
   border-radius: 1%;
@@ -119,4 +119,22 @@ img {
 .twentyfive {
   height: 110px;
   bottom: 145px;
+} */
+body {
+  background-color: black;
+}
+.container {
+  width: 1200px;
+}
+.images {
+  display: inline;
+  position: absolute;
+  columns: 5;
+}
+img {
+  width: 100%;
+  height: auto;
+  position: relative;
+  margin: 8px;
+  border-radius: 5px;
 }
